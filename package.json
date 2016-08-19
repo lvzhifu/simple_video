@@ -1,0 +1,27 @@
+{
+  "name": "simple_video",
+  "version": "1.0.0",
+  "description": "This is  a test video",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lvzhifu/simple_video.git"
+  },
+  "keywords": [
+    "video",
+    "H5"
+  ],
+  "readme": "README.md",
+  "author": "lzf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lvzhifu/simple_video/issues"
+  },
+  "homepage": "https://github.com/lvzhifu/simple_video#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
